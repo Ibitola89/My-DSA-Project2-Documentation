@@ -30,49 +30,34 @@ This project involves analyzing HR data using Power BI to uncover gender-related
 - Ensured consistent rating and department formatting for relational joins
 </details>
 
-<details> <summary>
-    
-### Tools Used 
-</summary>
-
- - Microsoft Excel: Data cleaning, transformation, and pivot analysis
-     - Ensuregd the right data type
-     - Created Calculated columns where necessary
- - Excel Dashboard: Custom visuals and KPI cards created to showcase insights interactively
-  
-</details>
-
 
 <details> <summary>
   
-### Key Questions Answered
-</summary>
+### Insights And Findings
+</summary> 
 
-- What is the average discount percentage by product category?
-- How many products are listed under each category?
-- What is the total number of reviews per category?
-- Which products have the highest average ratings?
-- What is the average actual vs. discounted price by category?
-- Which products have the highest number of reviews?
-- How many products have a discount of 50% or more?
-- What is the distribution of product ratings?
-- What is the total potential revenue by category?
-- How are products distributed across price range buckets?
-- What is the relationship between discount percentage and rating?
-- How many products have fewer than 1,000 reviews?
-- Which categories offer the highest discounts?
-- Top 5 products based on rating and review count combined
+#### Gender Distribution
+- Males outnumber females in most departments and across all regions.
+- The undisclosed gender have the highest average salary rate, making it difficult to balance gender by salary payment, raising potential bias.
+- Males earn more than females on the average
 
-
-</details>
-
-<summary>
+#### Performance Ratings by Gender
+- Males received a higher average rating than females in most regions.
+- In Lagos, females had slightly higher ratings possibly indicating better performance despite underrepresentation.
   
-### Key Insights
-</summary>
-
-![Amazon dashboard](https://github.com/user-attachments/assets/3ab933ac-1adc-40fa-a571-04d2333a38ee)
-
+#### Salary Band Analysis
+Palmoria Group does not meet the $90,000 minimum salary regulation:
+- Over 60% of employees fall below $90,000
 
 </details>
 
+<details> <summary>
+  
+### Recommendation
+</summary> 
+
+- The company should improve gender diversity in male-dominated regions and departments
+- Implement fair performance evaluation practices to reduce rating bias
+- Review compensation structure for gender equity
+- The company should ensure full compliance with the $90,000 minimum salary regulation
+</details>
