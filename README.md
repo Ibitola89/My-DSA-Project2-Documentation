@@ -59,6 +59,7 @@ Palmoria Group does not meet the $90,000 minimum salary regulation:
 ![Gender distribution across region and dept](https://github.com/user-attachments/assets/d13093e5-76da-404f-93b4-c19392389964)
 ![Employee by gender across salary band](https://github.com/user-attachments/assets/50cd41a5-936e-4199-8195-0d44b06afaac)
 ![Employee details by region, dept and average salary](https://github.com/user-attachments/assets/d927ad6f-f422-4a9f-a792-0062ccada457)
+![New Salary](https://github.com/user-attachments/assets/9838fddd-fad0-4c51-8c99-6884131309dd)
 
 </details>
 
