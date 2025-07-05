@@ -27,7 +27,7 @@ This project involves analyzing HR data using Power BI to uncover gender-related
 - I removed employees with missing salaries (ex-employees)
 - I removed departments marked as NULL
 - Assigned a generic label “Undisclosed” to missing gender values
-- Ensured consistent rating and department formatting for relational joins
+- Ensured consistent rating and department formatting 
 </details>
 
 
